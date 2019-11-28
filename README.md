@@ -1,5 +1,5 @@
 Boilerplate project for WebdriverIO with Mocha, Mocha-param, Chai, Chai-as-promised, and Chai-roughly
 
-Run tests with npm run wdio
-
-Store tests in specs and page objects in pages
+1. `npm install`
+2. Run tests with `npm run wdio`
+3. Store new tests in specs and new page objects in pages
